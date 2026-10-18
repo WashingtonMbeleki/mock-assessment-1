@@ -1,11 +1,3 @@
-### 2. `assessment.py`
-
-```python
-"""
-Level 3 Python Assessment: Control Flow & Loops
-Fill in the code for each function below based on the instructions.
-"""
-
 def check_even_odd(number):
     """
     Question 1: Even or Odd
